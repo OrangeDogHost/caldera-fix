@@ -3,7 +3,7 @@
  * Plugin Name: Caldera Fix
  * Plugin URI: https://github.com/zacnoo/caldera-fix
  * Description: Fix for Caldera forms mime type.
- * Version: 0.3.1
+ * Version: 0.3.2
  * Author: Zack Palmer (zacnoo)
  */
 
