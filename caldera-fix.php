@@ -5,6 +5,7 @@
  * Description: Fix for Caldera forms mime type.
  * Version: 0.3.1
  * Author: Zack Palmer (zacnoo)
+ * URI: https://github.com/zacnoo/caldera-fix
  */
 
 /**
